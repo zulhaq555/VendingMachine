@@ -1,0 +1,12 @@
+Item Name | Item Price | Item Stock
+Mars,120,8
+Twix,130,13
+Tayto,100,6
+Walkers,110,0
+Cola,160,2
+Fanta,155,4
+Rolo,125,7
+IsInStockTest,100,998
+NotInStockTest,100,0
+IsAffordItemTest,100,1000
+IsNotAffordItemTest,1000000,1000
