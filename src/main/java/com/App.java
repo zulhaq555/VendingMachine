@@ -30,5 +30,6 @@ public class App {
         VendingController vendingController = applicationContext.getBean("controller", VendingController.class);
 
         vendingController.startController();
+
     }
 }

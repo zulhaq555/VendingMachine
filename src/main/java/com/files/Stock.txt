@@ -3,7 +3,7 @@ Mars,120,8
 Twix,130,13
 Tayto,100,6
 Walkers,110,0
-Cola,160,2
+Cola,160,1
 Fanta,155,4
 Rolo,125,7
 IsInStockTest,100,998
